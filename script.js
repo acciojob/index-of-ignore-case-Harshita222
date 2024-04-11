@@ -1,7 +1,7 @@
 function indexOfIgnoreCase(s1, s2) {
   // write your code here
-	s1.tolowercase()
-	s2.tolowercase()
+	s1.toLowercase()
+	s2.toLowercase()
 	
 }
 
